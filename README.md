@@ -30,7 +30,9 @@
 - Click an asset name to ping it in the Project.
 
 ---
+```json
 "com.juliennoe.assetdiskstat": "https://github.com/juliennoe/assetdiskstat.git"
+```
 
 ## **🧑‍💻 Author**
 
