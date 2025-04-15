@@ -1,32 +1,36 @@
-**Asset Disk Stat**
-A Unity Editor tool to analyze and visualize the disk usage of assets grouped by type and size.
+# **Asset Disk Stat**
 
-📊 **Features**
-📁 Global Scan: Analyzes all files in the Assets/ directory.
+**A Unity Editor tool to analyze and visualize the disk usage of assets grouped by type and size.**
 
-🎨 Color Blocks by Type: Displays asset types as colored buttons (e.g., .png, .mat, .cs).
+---
 
-📦 Size Breakdown: Shows total size and number of files per extension.
+## **📊 Features**
 
-🔍 Clickable Asset List: Click a file type to list all matching assets and locate them in the Project window.
+- 📁 **Global Scan**: Analyzes all files in the `Assets/` directory.
+- 🎨 **Color Blocks by Type**: Displays asset types as colored buttons (e.g., `.png`, `.mat`, `.cs`).
+- 📦 **Size Breakdown**: Shows total size and number of files per extension.
+- 🔍 **Clickable Asset List**: Click a file type to list all matching assets and locate them in the Project window.
+- 🚫 **Play Mode Safe**: Automatically disables itself during Play Mode to prevent scanning conflicts.
+- 🔄 **Refresh & Clear**: Manually scan again or reset the data via buttons.
 
-🚫 Play Mode Safe: Automatically disables itself during Play Mode to prevent scanning conflicts.
+---
 
-🔄 Refresh & Clear: Manually scan again or reset the data via buttons.
+## **📦 Installation**
 
-📦 **Installation**
-Copy the script into a folder under Assets/Editor/AssetDiskStat.cs.
+1. Copy the script into a folder under `Assets/Editor/AssetDiskStat.cs`.
+2. Or install it via Unity Package Manager using this repository as a Git URL.
 
-Or install it via Unity Package Manager using this repository as a Git URL.
+---
 
-🧠 **Usage**
-Open the tool from Tools > Analysis > Asset Disk Stat.
+## **🧠 Usage**
 
-Click Scan to analyze the project.
+- Open the tool from `Tools > Analysis > Asset Disk Stat`.
+- Click **Scan** to analyze the project.
+- Select a file type on the left panel to view related assets.
+- Click an asset name to ping it in the Project.
 
-Select a file type on the left panel to view related assets.
+---
 
-Click an asset name to ping it in the Project.
+## **🧑‍💻 Author**
 
-🧑‍💻 Author
-Julien Noé — GitHub
+**Julien Noé** — [GitHub](https://github.com/juliennoe)
