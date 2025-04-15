@@ -1,0 +1,18 @@
+{
+  "name": "com.juliennoe.assetdiskstat",
+  "version": "2023.1.0",
+  "displayName": "Asset Disk Stat",
+  "description": "A Unity Editor tool to analyze and visualize the disk usage of project assets grouped by type and size.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Julien Noé",
+    "url": "https://github.com/juliennoe"
+  },
+  "keywords": [
+    "editor",
+    "tools",
+    "disk usage",
+    "assets",
+    "analysis"
+  ]
+}
