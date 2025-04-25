@@ -44,10 +44,10 @@ namespace JulienNoe.Tools.AssetDirStat
         private bool isPlayMode => EditorApplication.isPlayingOrWillChangePlaymode;
 
         // Adds menu item to Unity under Tools > Analysis > Asset Disk Stat
-        [MenuItem("Tools/Analysis/Asset Disk Stat")]
+        [MenuItem("Tools/Julien Noe/Asset Disk Stat")]
         public static void ShowWindow()
         {
-            var window = GetWindow<AssetDiskStatEditor>("AssetDiskStat");
+            var window = GetWindow<AssetDirStatEditor>("AssetDirStat");
             window.minSize = new Vector2(600, 400);
         }
 
