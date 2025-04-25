@@ -1,4 +1,4 @@
-# **Asset Disk Stat**
+# **Asset Dir Stat**
 
 **A Unity Editor tool to analyze and visualize the disk usage of assets grouped by type and size.**
 
@@ -17,14 +17,14 @@
 
 ## **📦 Installation**
 
-1. Copy the script into a folder under `Assets/Editor/AssetDiskStat.cs`.
+1. Copy the script into a folder under `Assets/Editor/AssetDirStat.cs`.
 2. Or install it via Unity Package Manager using this repository as a Git URL.
 
 ---
 
 ## **🧠 Usage**
 
-- Open the tool from `Tools > Analysis > Asset Disk Stat`.
+- Open the tool from `Tools > Analysis > Asset Dir Stat`.
 - Click **Scan** to analyze the project.
 - Select a file type on the left panel to view related assets.
 - Click an asset name to ping it in the Project.
