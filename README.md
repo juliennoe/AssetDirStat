@@ -31,7 +31,7 @@
 
 ---
 ```json
-"com.juliennoe.assetdiskstat": "https://github.com/juliennoe/assetdiskstat.git"
+"com.juliennoe.assetdiskstat": "https://github.com/juliennoe/assetdirstat.git"
 ```
 
 ## **🧑‍💻 Author**
