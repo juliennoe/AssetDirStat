@@ -1,6 +1,6 @@
 {
   "name": "com.juliennoe.assetdirstat",
-  "version": "2023.1.0",
+  "version": "1.0.0",
   "displayName": "Asset Dir Stat",
   "description": "A Unity Editor tool to analyze and visualize the disk usage of project assets grouped by type and size.",
   "unity": "2021.3",
